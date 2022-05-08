@@ -15,6 +15,8 @@ export class ListTemplate {
         }
         else {
             this.container.append(li);
+            //added new line
+            
         }
     }
 }
